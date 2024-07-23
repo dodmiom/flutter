@@ -1,0 +1,209 @@
+{
+    "icecreams": [
+        {
+            "toppings": [
+                "Chocolate Sauce",
+                "Sprinkle"
+            ],
+            "ingredients": [
+                {
+                    "name": "Doro Extract",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Doro Cream",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "3/4 cup"
+                }
+            ],
+            "name": "Doro Cream",
+            "image": "https://media.istockphoto.com/id/157481859/photo/ice-cream-bowl-of-various-flavours.jpg?s=1024x1024&w=is&k=20&c=juKdnLFeCs-SeVlRP8LbD4I5A66SUByTtQjy5hHeYNg=",
+            "price": 200,
+            "description": "Fruit Ice cream is made by adding various fruits at the time of freezing with or without additional fruit flavouring or colour. The fruits may be fresh, frozen, canned or preserved."
+        },
+        {
+            "toppings": [
+                "Chocolate ",
+                "Sprinkle",
+                "Pasty"
+            ],
+            "ingredients": [
+                {
+                    "name": "Choco las la extract",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Choco Cream",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "3/4 cup"
+                }
+            ],
+            "name": "Choco las de",
+            "image": "https://images.unsplash.com/photo-1627222295124-f8b3fc09e47f?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 220,
+            "description": "Ice cream containing whipped cream, sugar, colour and flavouring, and frozen without further agitation. Sometimes condensed milk is added to give better consistenc"
+        },
+        {
+            "toppings": [
+                "Strawberry Sauce",
+                "Sprinkle",
+                "Nuts"
+            ],
+            "ingredients": [
+                {
+                    "name": "Flavva Extract",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Strawberry Cream",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "3/4 cup"
+                }
+            ],
+            "name": "Strawberry flavva",
+            "image": "https://images.unsplash.com/photo-1505394033641-40c6ad1178d7?q=80&w=2087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 160,
+            "description": "A dense ice cream generally made with more milk than cream (making it lower in fat), egg yolks, sugar or other sweeteners and flavourings. Gelato has a more intense flavour than traditional ice cream and less air."
+        },
+        {
+            "toppings": [
+                "Chocolate ",
+                "Sprinkle",
+                "Pasty",
+                "nuts"
+            ],
+            "ingredients": [
+                {
+                    "name": "Choco Bar la extract",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Choco Cream",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "3/4 cup"
+                }
+            ],
+            "name": "Choco Bar la",
+            "image": "https://images.unsplash.com/photo-1628585352636-f4a24c2e17d5?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 500,
+            "description": "The one who matched strawberries with ice cream was a true genius. Creating a blend of the sweet and slightly tangy taste of strawberries, enveloped with the creaminess of ice cream.Strawberry ice cream is a delicious and popular ice cream flavour that is loved by many people, including children. If your family loves strawberry ice cream, you can try making it at home with your kid with our easy-to-follow recipe and just 3 ingredients Nestlé MILKMAID, fresh strawberries and fresh cream."
+        },
+        {
+            "toppings": [
+                "Sprinkle",
+                "Banana"
+            ],
+            "ingredients": [
+                {
+                    "name": "Banana Bar  extract",
+                    "quantity": "1/2 cup"
+                },
+                {
+                    "name": "Banana Cream",
+                    "quantity": "2/3 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "3/4 cup"
+                }
+            ],
+            "name": "Banana Bar",
+            "image": "https://plus.unsplash.com/premium_photo-1661386235368-ab28ffd63a84?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 200,
+            "description": "Summers without mango ice cream can feel incomplete. The distinct sweet, juicy flavour of ripe mangoes mixed with creamy ice cream set it apart from other ice cream flavours. You can make mango ice cream at home with our easy-to-make ice cream recipe. The ingredients include fresh mangoes, fresh cream and Nestlé MILKMAID which makes the process quick and adds extra creaminess to your ice cream."
+        },
+        {
+            "toppings": [
+                "Apple ",
+                "Sprinkle",
+                "Lemons"
+            ],
+            "ingredients": [
+                {
+                    "name": "Apple Dosa Cream",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Choco Cream",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": "3/4 cup"
+                }
+            ],
+            "name": "Apple Dosa Cream",
+            "image": "https://plus.unsplash.com/premium_photo-1661288452010-951ca57991fc?q=80&w=2079&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 20,
+            "description": "Vanilla ice cream is the first choice of many ice cream lovers. Its classic taste and delicate aroma adjust easily with the palate.You can try it at home easily with our recipe. The recipe includes Nestlé MILKMAID, which makes the process quick and also adds a silken texture to the ice cream.Pair a scoop of this vanilla ice cream with cookies, cakes, chocolate chips or any fruit of your choice to make it even more delectable."
+        },
+        {
+            "toppings": [
+                "Chocolate ",
+                "Milk",
+                "Honey",
+                "Cheese"
+            ],
+            "ingredients": [
+                {
+                    "name": "Milk Way Re",
+                    "quantity": "2.2 cup"
+                },
+                {
+                    "name": "Cheese Cream",
+                    "quantity": " 1 4/2 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "3/4 cup"
+                },
+                {
+                    "name": "Milk",
+                    "quantity": "3 cup"
+                }
+            ],
+            "name": "Milk Way Re",
+            "image": "https://images.unsplash.com/photo-1546470427-0d4db154ceb7?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 70,
+            "description": "Chickoos can be a part of several delectable desserts, and Chikoo ice cream is one of them. The sweetness and grainy texture of Chikoo, when blended with Nestlé MILKMAID makes it rich, creamy and yummy!"
+        },
+        {
+            "toppings": [
+                "Chocolate ",
+                "Sprinkle",
+                "Pasty",
+                "Strawberry Sauce"
+            ],
+            "ingredients": [
+                {
+                    "name": "Rich Cream De Reve",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Strawberry flavva",
+                    "quantity": "2 cup"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "3/4 cup"
+                }
+            ],
+            "name": "Rich Cream De Reve",
+            "image": "https://images.unsplash.com/photo-1514849302-984523450cf4?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "price": 800,
+            "description": "Mocha exquisite is a frozen dessert made with coffee and cocoa. Perfect as an after dinner-treat.Our recipe includes the sweetness and creaminess of Nestlé MILKMAID that perfectly contrasts the bitterness of cocoa, making it an irresistible frozen dessert. It can be made in just a few minutes."
+        }
+    ]
+}
